@@ -1,0 +1,17 @@
+.list ul {
+ list-style: none;
+}
+
+.list ul li {
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+   }
+
+.list ul li:hover{
+    background-color: #000;
+    color: blanchedalmond;
+}
+
+.text {
+    font-style: italic;
+}
